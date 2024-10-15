@@ -57,3 +57,4 @@ group :test do
 end
 gem 'activeadmin'
 gem 'devise'
+gem 'sassc'
